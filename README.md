@@ -109,4 +109,4 @@ applications.
 To submit your work, create a feature branch for your code, commit your changes,
 push your commits up to your fork, and open up a pull request against `master`.
 Finally, drop a link to your pull request in your application.
- *Note from applicant: I did not have the valid access to creqte a feature branch so with the example of others I created a fork for this submission* 
+ *Note from applicant: I did not have the valid access to create a feature branch so with the example of others I created a fork for this submission* 
